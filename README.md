@@ -9,10 +9,10 @@
 
 
 <p align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100"> &nbsp;
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100"><br>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"> &nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"> &nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 </p>
 <br>
@@ -57,8 +57,29 @@ I am a dedicated **BCA student** 📚 currently pivoting my focus toward the exc
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=radical" alt="Mitul's GitHub Stats" />
+
+
+<br>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="left" style="border: none;">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-Icons/main/active-dot.gif" width="20px" style="margin-bottom: -25px; margin-left: -5px; display: block; position: relative; z-index: 1;">
+      <img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="120px" height="120px" style="border-radius: 50%; border: 2px solid #2ea44f; object-fit: cover;" />
+    </td>
+    <td align="left" style="border: none; vertical-align: middle;">
+      <h1> Mitul </h1>
+      <p>🟢 <b>Online Now</b></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+</div>
+</div>
 </p>
 
 ---
@@ -67,7 +88,7 @@ I am a dedicated **BCA student** 📚 currently pivoting my focus toward the exc
 I am always open to collaborating 🤝 on security projects or discussing the latest in tech 📢.
 
 <p align="left">
-<a href="#"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"></a>
+<a href="83202-86075"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"></a>
 <a href="#"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
 <a href="YOUR_LINKEDIN_URL"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
 <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" /></a>
