@@ -81,13 +81,11 @@ I am a dedicated **BCA student** 📚 currently pivoting my focus toward the exc
 
 ### 📫 Let's Connect!
 I am always open to collaborating 🤝 on security projects or discussing the latest in tech 📢.
-
-<p align="left">
-<a href="83202-86075"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"></a>
-<a href="#"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
-<a href="YOUR_LINKEDIN_URL"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" /></a>
-</p>
+<div align="left">
+  <a href="https://wa.me/91XXXXXXXXXX?text=Hi%20Mitul,%20I%20saw%20your%20GitHub%20profile!">
+    <img src="https://capsule-render.vercel.app/render?type=soft&color=25D366&height=60&section=header&text=Connect%20on%20WhatsApp%20➔&fontSize=20&animation=fadeIn" />
+  </a>
+</div>
 
 **Portfolio:** _Coming Soon_ 🔜✨
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://www.froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
